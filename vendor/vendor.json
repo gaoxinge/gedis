@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "8JvYUu7MIKPZ/6XoNWznA6mp9Dw=",
+			"path": "github.com/fatih/pool",
+			"revision": "d817ebe42acfb2147a68af2007324c3492260c4a",
+			"revisionTime": "2018-07-22T10:01:58Z"
+		}
+	],
+	"rootPath": "gedis"
+}
