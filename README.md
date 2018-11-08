@@ -1,6 +1,6 @@
 # gedis
 
-gedis = redis + faith/pool
+gedis = redis + fatih/pool
 
 ## hello world
 
